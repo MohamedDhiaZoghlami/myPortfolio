@@ -41,7 +41,7 @@
             margin-bottom: 5px;
         }
         a {
-            color: var(--gray-color);
+            color: var(--secondary-color);
             text-decoration: none;
             flex-direction: column;
             text-transform: uppercase;
@@ -70,7 +70,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--secondary-color);
+    background: #525e65;
     svg {
         width: 70%;
         height: 70%;
